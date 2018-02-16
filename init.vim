@@ -1,5 +1,5 @@
 "load all the plugins
-call plug#begin('~/.vim/bundle')
+call plug#begin()
 Plug 'https://github.com/freeo/vim-kalisi'
 Plug 'neomake/neomake'
 Plug 'scrooloose/nerdtree'
@@ -19,6 +19,7 @@ Plug 'MarcWeber/vim-addon-mw-utils'
 Plug 'garbas/vim-snipmate'
 Plug 'zah/nim.vim'
 Plug 'yegappan/grep'
+Plug 'christoomey/vim-conflicted'
 call plug#end()
 
 "neomake setup
