@@ -1,9 +1,11 @@
 # neovimide
 My neovim "IDE" setup
 
-Clone this into ~/.local/share/nvim 
-NOTE: the following may be incorrect or specific to Linux where the above is specific to MAC
+Linux?: (might be wrong)
+Clone this into ~/.local/share/nvim
+MAC:
 Clone this into ~/.config/nvim
+Copy mv ~/.config/site to ~/.local/share/nvim
 Run nvim
 :PlugInstall
 Go find where to put the color schemes
