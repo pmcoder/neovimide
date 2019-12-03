@@ -3,6 +3,7 @@ My neovim "IDE" setup
 
 Linux?: (might be wrong)
 Clone this into ~/.local/share/nvim
+Copy or link init.vim to ~/.config/nvim/init.vim
 MAC:
 Clone this into ~/.config/nvim
 Copy mv ~/.config/site to ~/.local/share/nvim
