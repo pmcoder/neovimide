@@ -17,3 +17,7 @@ This setup uses Vim Plug for plugin management. It comes preinstalled but is not
 
 ## Autocomplete (gocode)
 Gocode (and probably the rest of the tools like it) uses the pkg dir from the GOPATH to do autocomplete. It works best after you have done a "go install <package> and have forced the pkg dir to be populated.
+
+  
+Note: Autocomplete and other features now work better through coc.vim. Follow the following guide for a Golang setup for vim/nvim:
+  https://pmihaylov.com/vim-for-go-development/
